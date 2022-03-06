@@ -1,19 +1,19 @@
 # Module Challenge: Surfs Up
 
 ## Overview
-An investor, W. Avy, wants to invest in a 'surf and shake' shop in Hawaii but needs to go through the logistics before opening said shop./n
+An investor, W. Avy, wants to invest in a 'surf and shake' shop in Hawaii but needs to go through the logistics before opening said shop.
 
-In this challenge, W. Avy wants the temperature data for the months of June and December in Oahu./n
+In this challenge, W. Avy wants the temperature data for the months of June and December in Oahu.
 
 
 ##  Results
 A set of temperature statistics from June:
-![June_temps.png](june temps from git)
+![June_temps.png](https://github.com/Paul-Lecander/surfs_up/blob/main/june_temps.png)
 
 A set of temperature statistis from December:
-![December_temps.png]()
+![December_temps.png](https://github.com/Paul-Lecander/surfs_up/blob/main/december_temps.png)
 
-Key differences between the two data sets: /n
+Key differences between the two data sets: 
 
 - June is warmer than December, on average, by almost 4 degrees.
 - December has a colder low temperature than June, with the low at 56 degrees.
